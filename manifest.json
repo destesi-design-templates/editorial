@@ -1,0 +1,13 @@
+{
+  "id": "editorial",
+  "name": "Editorial",
+  "description": "A full-bleed cover, a story beside a photo and a calm, centred collection.",
+  "best_for": "Fashion, home and lifestyle brands",
+  "backend": "commerce",
+  "es": {
+    "name": "Editorial",
+    "description": "Una portada de borde a borde, una historia junto a una foto y la colección en calma.",
+    "best_for": "Moda, hogar y estilo de vida"
+  },
+  "hero_compact": false
+}

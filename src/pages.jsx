@@ -28,7 +28,7 @@ export function Home() {
         props: {
           eyebrow: "Nuestra forma de hacer",
           title: "Menos cosas, mejor elegidas",
-          body: "Materiales nobles, colores tranquilos y piezas que conversan entre sí. Una colección pensada para durar más que una temporada.",
+          body: "Colores tranquilos, formas simples y piezas que conversan entre sí. Una colección pensada para usarse más allá de una temporada.",
           button_label: "Ver la colección",
           image_side: "right"
         }
